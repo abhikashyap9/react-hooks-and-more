@@ -1,0 +1,9 @@
+.border{
+    border:2px solid grey;
+    padding:4px;
+    background-color: rgb(126, 126, 126);
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+
+}
